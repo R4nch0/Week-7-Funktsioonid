@@ -1,0 +1,16 @@
+C:\Users\Kev\source\repos\Functions\UserNameData\bin\Debug\net5.0\UserNameData.exe
+C:\Users\Kev\source\repos\Functions\UserNameData\bin\Debug\net5.0\UserNameData.deps.json
+C:\Users\Kev\source\repos\Functions\UserNameData\bin\Debug\net5.0\UserNameData.runtimeconfig.json
+C:\Users\Kev\source\repos\Functions\UserNameData\bin\Debug\net5.0\UserNameData.runtimeconfig.dev.json
+C:\Users\Kev\source\repos\Functions\UserNameData\bin\Debug\net5.0\UserNameData.dll
+C:\Users\Kev\source\repos\Functions\UserNameData\bin\Debug\net5.0\ref\UserNameData.dll
+C:\Users\Kev\source\repos\Functions\UserNameData\bin\Debug\net5.0\UserNameData.pdb
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\UserNameData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\UserNameData.AssemblyInfoInputs.cache
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\UserNameData.AssemblyInfo.cs
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\UserNameData.csproj.CoreCompileInputs.cache
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\UserNameData.dll
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\ref\UserNameData.dll
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\UserNameData.pdb
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\UserNameData.genruntimeconfig.cache
+C:\Users\Kev\source\repos\Functions\UserNameData\obj\Debug\net5.0\UserNameData.csproj.AssemblyReference.cache
